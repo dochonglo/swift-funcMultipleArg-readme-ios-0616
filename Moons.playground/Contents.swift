@@ -37,6 +37,7 @@ planetDescription("Jupiter", numberOfMoons: 67)
 
 var planet = "Jupiter"
 var moons = 67
+// Just like we have been doing in Objective-C, we can pass in variables into functions.
 planetDescription(planet, numberOfMoons: moons)
 planet = "Mars"
 moons = 2
